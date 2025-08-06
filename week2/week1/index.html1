@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>cat</title>
+</head>
+<>
+    <h1>Rocket Catss:></h1>
+   <p>All are Rocket Cats</p>
+   <li>TIMMY</li>
+   <li>Rimmy</li>
+   <li>Sammy</li>
+</ul>
+<ol type="1"></ol>
+<li>first</li>
+<li>no dogs</li>
+
+<figure>   
+<img src="images.jpg"/>
+<figcaption> timmy</figcaption>
+
+
+</figure>
+<figure>   
+<img src="download (1).jpg"/>
+<figcaption> rimmy</figcaption>
+
+</figure>
+<figure>   
+<img src="download.jpg"/>
+<figcaption> sammy</figcaption>
+
+<table border="50" width="100%" cellpadding="50"
+<tr>
+<td>A for timmy</td>
+<td>B for rimmy</td>
+</tr>
+<tr>
+<td>C for sammy</td>
+<td>D no one</td>
+</tr>
+
+</figure>
+</body>
+</html>

@@ -1,0 +1,54 @@
+@import url('https://fonts.googleapis.com/css2?family=Playwrite+MX+Guides&family=Rouge+Script&display=swap');
+h1{
+    color:rgb(194, 53, 53);
+    font:message-box;
+    font-family: "Playwrite MX Guides", cursive;
+    font-size: xx-large;
+    font-weight: 700;
+   font-style: italic;
+    background-color: bisque;
+    padding: 50px;
+   width: 50;
+   text-align: center;
+   margin: 15;
+   border-right: 2ex:green;
+}
+p{
+    color:blue;
+    font-family: "Playwrite MX Guides", cursive;
+    font-size: xx-large;
+    font-weight: 700;
+   font-style: italic;
+    background-color: bisque;
+    padding: 50px;
+   width:50%;
+   text-align: center;
+   margin: 15;
+   border-right: 2x gold; 
+    
+
+    
+}
+.p1{
+    color: #5a2121;
+    font-size: xx-large;
+    font-weight: 700;
+   font-style: italic;
+    background-color: bisque;
+    padding: 50px;
+   width:120%;
+   text-align: center;
+   margin: 15;
+   background-image: ;
+   border-right: 2x;
+   
+}
+.myspan{
+    color: #c55697;
+    font-size: xx-large;
+}
+body{
+    background-image:url("download\ \(1\).jpg");
+    background-size:100%;
+}
+

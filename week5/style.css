@@ -1,0 +1,54 @@
+.mdi{
+color: turquoise;
+;
+
+}
+.bnn{
+    font-size:normal;
+    
+}
+.card{
+    width: 25%;
+    border: 1px solid gray;
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 10px 10px;
+    margin-left: 50px;
+    
+
+}
+.card:hover{
+background-color: royalblue;
+}
+h2,p{
+    margin: 0;
+}
+
+.card-header{
+   display: flex;
+    border-bottom: 1px solid black;
+  
+
+}
+.btn{
+    padding: 10px;
+    border-radius: 100px;
+background: linear-gradient(90deg, rgb(38, 129, 87) 13%, rgb(19, 158, 77) 28%, rgb(165, 177, 61) 36%, rgba(136, 74, 23, 0.85) 55%, rgb(228, 111, 2) 86%, rgb(236, 96, 15) 94%);
+}
+
+
+.btn:hover{
+    border: none;
+    background-color: red;
+    color: white;
+    padding: 10px;
+    border-radius:100px;
+background: linear-gradient(90deg, rgba(117, 17, 184, 1) 13%, rgba(235, 40, 202, 1) 28%, rgba(191, 71, 133, 1) 36%, rgba(33, 12, 12, 0.85) 55%, rgba(207, 113, 25, 1) 86%, rgba(99, 92, 82, 1) 94%);
+}
+.bigcard{
+    display: flex;
+   
+    
+
+    
+}

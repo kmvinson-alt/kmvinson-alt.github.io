@@ -97,7 +97,7 @@
   padding: 40px;
   width: 100%;
   background-color: #212529;
-  color: #ffffff;
+  
 }
 
 .body2 .text {
@@ -105,12 +105,26 @@
   display: flex;
   flex-direction: column;
   gap: 15px;
-background-color: #212529;
+}
+
+.body2 .text button {
+  padding: 10px 20px;
+  font-size: 16px;
+  background: #ffc107;
+  color: #000000;
+  border: none;
+  border-radius: 6px;
+  cursor: pointer;
+  width: auto;
+}
+
+.body2 .text button:hover {
+  background: #e0a800;
 }
 
 .body2 .image2 {
-  flex: 1;
-  max-width: 400px;
+  flex: 2;
+  max-width: 600px;
   width: 100%;
   height: auto;
   border-radius: 10px;

@@ -1,0 +1,70 @@
+.header{
+    background-color:#212529;
+    width: 100%;
+    height: 150px;
+    display: flex;
+    font-size: 40px;
+
+   
+
+}
+.btn{
+  background-color: white;
+  display: flex;
+  font-size: 40px;
+  margin-left: 200px;
+  justify-content: flex-end;
+  align-items:center;
+  
+}
+.btn1{
+  display: flex;
+
+  
+}
+.Post{
+     width: 100%;
+    height: 1700px;
+    background-color:#e2e3e5 ;
+   
+  font-size:70px;
+  align-items: center;
+  
+
+
+}
+.card{
+    display: flex;
+
+}
+
+.place{
+    display: flex;
+}
+.checkbox{
+    display: flex;
+    text-align: left;
+    
+    
+
+}
+.ac{
+    background-color: green;
+    height: 200px;
+    width: 25%;
+    font-size: 40px;
+}
+
+.body{
+    margin: 10%;
+    text-align: center;
+    font-size: 40px;
+    
+
+
+}
+
+.image{
+    width:60%;
+    height: 1500px;
+}

@@ -95,8 +95,9 @@
   justify-content: center;
   gap: 40px;
   padding: 40px;
-  max-width: 1200px;
-  margin: 0 auto;
+  width: 100%;
+  background-color: #212529;
+  color: #ffffff;
 }
 
 .body2 .text {
